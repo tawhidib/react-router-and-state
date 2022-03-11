@@ -1,0 +1,19 @@
+.contact-area {
+  height: 100vh;
+}
+.contact-area .btn {
+  font-size: 20px;
+  border: 2px solid #23b7a7;
+  font-weight: 500;
+  transition: 0.3s all ease;
+  color: #23b7a7;
+  padding: 8px 15px;
+  border-radius: 5px;
+  width: 200px;
+  margin: 30px auto 0 auto;
+}
+.contact-area .btn:hover {
+  border: 2px solid #fff;
+  color: #fff;
+  background-color: #23b7a7;
+}
